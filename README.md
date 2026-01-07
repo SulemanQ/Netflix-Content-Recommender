@@ -42,7 +42,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/[YOUR_USERNAME]/Netflix-Recommender.git
+https://github.com/SulemanQ/Netflix-Content-Recommender.git
 Install dependencies:
 
 Bash
